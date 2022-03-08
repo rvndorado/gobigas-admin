@@ -1,0 +1,13 @@
+.navigation {
+    display: flex !important;
+    flex-grow: 1 !important;
+
+    &__title {
+        flex-grow: 1 !important;
+    }
+
+    &__link {
+        text-decoration: none;
+        color: inherit;
+    }
+}

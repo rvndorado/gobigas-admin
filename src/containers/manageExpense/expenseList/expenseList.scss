@@ -1,0 +1,11 @@
+.expenselist {
+    &__table {
+        width: 85vw;
+        overflow-x: scroll !important;
+    }
+
+    &__title {
+        display: flex;
+        justify-content: space-between;
+    }
+}

@@ -1,0 +1,13 @@
+.container {
+    margin-top: 3rem;
+    margin-left: 10%;
+    margin-right: 10%;
+
+    &__body {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        flex-grow: 1;
+        width: 100%;
+    }
+}
